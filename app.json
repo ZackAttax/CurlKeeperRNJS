@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CurlKeeperRNJS",
+    "slug": "CurlKeeperRNJS",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CurlKeeperRNJS"
+}
