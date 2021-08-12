@@ -3,3 +3,10 @@ Curl Keeper is an application to track and journal your success using the Curly 
 
 Built using #! expo init CurlKeeperRNJS
 template: minimal
+
+To run project, navigate to the directory and run one of the following yarn commands.
+
+- cd CurlKeeperRNJS
+- yarn android
+- yarn ios
+- yarn web
