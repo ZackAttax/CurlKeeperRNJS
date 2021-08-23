@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-curlkeeper-dev-150817-authRole",
+      "UnauthRoleArn": "arn:aws:iam::979872583479:role/amplify-curlkeeper-dev-150817-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::979872583479:role/amplify-curlkeeper-dev-150817-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-curlkeeper-dev-150817-deployment",
+      "UnauthRoleName": "amplify-curlkeeper-dev-150817-unauthRole",
+      "StackName": "amplify-curlkeeper-dev-150817",
+      "StackId": "arn:aws:cloudformation:us-east-2:979872583479:stack/amplify-curlkeeper-dev-150817/7aa41170-0445-11ec-9062-0690be40d072",
+      "AmplifyAppId": "d1b655j6wtxw7h"
+    }
+  }
+}
